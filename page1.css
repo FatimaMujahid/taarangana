@@ -1,0 +1,161 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/071617-celebs-avengers-infinity-war-poster.jpg);
+   background-attachment: fixed;
+   background-position: left top;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#wb_Form1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 3px transparent solid;
+   border-radius: 20px;
+   -moz-box-shadow: 2px 0px 5px #E6E6FA;
+   -webkit-box-shadow: 2px 0px 5px #E6E6FA;
+   box-shadow: 2px 0px 5px #E6E6FA;
+   -webkit-animation: puff-in 500ms linear 0ms 1 normal both;
+   -moz-animation: puff-in 500ms linear 0ms 1 normal both;
+   animation: puff-in 500ms linear 0ms 1 normal both;
+}
+#Editbox1
+{
+   border: 1px #CCCCCC solid;
+   border-radius: 9px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 4px 4px 4px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox1:focus
+{
+   border-color: #66AFE9;
+   -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#Editbox2
+{
+   border: 1px #CCCCCC solid;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 4px 4px 4px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox2:focus
+{
+   border-color: #66AFE9;
+   -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   outline: 0;
+}
+#Label2
+{
+   border: 0px #CCCCCC solid;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#FFFFFF;
+   font-family: "Comic Sans MS";
+   font-weight: bold;
+   font-size: 20px;
+   padding: 4px 4px 4px 4px;
+   text-align: left;
+   vertical-align: top;
+}
+#Label3
+{
+   border: 1px transparent solid;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#FFFFFF;
+   font-family: "Comic Sans MS";
+   font-weight: bold;
+   font-size: 20px;
+   padding: 4px 4px 4px 4px;
+   text-align: left;
+   vertical-align: top;
+}
+#Label4
+{
+   border: 0px #CCCCCC solid;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color :#F5F5F5;
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 32px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+   vertical-align: top;
+}
+#Button1
+{
+   border: 1px #2E6DA4 solid;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/page1_Button1_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+   color: #FFFFFF;
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 19px;
+}
+#Button2
+{
+   border: 1px #2E6DA4 solid;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/page1_Button2_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+   color: #FFFFFF;
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 19px;
+}
+#Button3
+{
+   border: 1px #2E6DA4 solid;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url(images/page1_Button3_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+   color: #FFFFFF;
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 19px;
+}
